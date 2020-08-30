@@ -39,7 +39,7 @@ Final thought: it's easy to come with a design that's so broad that you won't be
 
 Form teams of two or three people and post who's on what team. If someone asks to be on a team please play nice and let them in. Here's the class roster if you need it: Colin Cramer, Daisy Murillo, Jason Howard, Jess Raben, Kim Watson, Lee Blanchard, Zach Rind.
 
-If you want, we can use Thursday night's session to work on the assignments. Teams can work individually and I'll be available to ask questions. If you don't want to do that we can go over any topic learned so far so that you can ask questions.
+If you want, we can use Wednesday night's session to work on the assignments. Teams can work individually and I'll be available to ask questions. If you don't want to do that we can go over any topic learned so far so that you can ask questions.
 
 ## Working on the project
 
