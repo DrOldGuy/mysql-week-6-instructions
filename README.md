@@ -64,4 +64,7 @@ One person should create the team repo on GitHub. Set the repo visibility to pub
 
 Next create a pull request in GitHub. This will allow the changes to be *merged* into the master branch instead of overwriting the master branch. Muy importante.
 
-1. Navigate to the project URL with a brower.
+1. Navigate to the project URL with a brower. You should see a big green button "Compare & pull request". Click the button.
+1. Add reviewers if you want. Otherwise click the big green "Create pull request" button. You may need to be the repo creator for this.
+1. Go to the "Pull requests" tab. (You should be on it if you just clicked "Create pull request". Click the "Merge pull request" button. Click "Confirm merge". You may need to be the repo creator to do this.
+1. Go back to the Code tab. You should see your changes merged into the master branch.
