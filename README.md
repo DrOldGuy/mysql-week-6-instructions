@@ -46,7 +46,7 @@ If you want, we can use Wednesday night's session to work on the assignments. Te
 One person should create the team repo on GitHub. Set the repo visibility to public. You will find that if your team updates to the master branch that you will lose work. There's a better way.
 
 1. Pull the latest changes: **git pull**
-1. Create the repo. Send the project URL to your team.
+1. Create the repo. Send the project URL to your team. 
 1. Open the project main page (Code) in a browser. Click on the big green "Code" button. Copy the clone URL.
 1. Open a command window and nagivate to your workspace directory (the one in which your projects live). Type **git clone ** and paste the clone URL into the command line. Example: *git clone https://github.com/DrOldGuy/mysql-week-6-instructions.git*. This will create the project directory as a subdirectory under the current directory.
 1. Open your IDE and enter the workspace. Right-click in a blank space in Project Explorer and click "New / Java Project". Enter the project name (the directory name of the project that was cloned). Click "Finish" then "Don't Create" if you are using Java 9+. Eclipse should create the project, and you should see the git branch in the project name. So, for project mysql-week-6-instructions, you should see in the Project Explorer "mysql-week-6-instructions [mysql-week-6-instructions master]", where "master" is the name of the master branch.
