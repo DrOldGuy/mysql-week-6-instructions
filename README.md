@@ -45,6 +45,7 @@ If you want, we can use Wednesday night's session to work on the assignments. Te
 
 One person should create the team repo on GitHub. Set the repo visibility to public. You will find that if your team updates to the master branch that you will lose work. There's a better way.
 
+1. Pull the latest changes: **git pull**
 1. Create the repo. Send the project URL to your team.
 1. Open the project main page (Code) in a browser. Click on the big green "Code" button. Copy the clone URL.
 1. Open a command window and nagivate to your workspace directory (the one in which your projects live). Type **git clone ** and paste the clone URL into the command line. Example: *git clone https://github.com/DrOldGuy/mysql-week-6-instructions.git*. This will create the project directory as a subdirectory under the current directory.
