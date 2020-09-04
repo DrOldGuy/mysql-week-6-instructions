@@ -2,7 +2,7 @@
 
 # About the assignment
 
-This week's assignment is a collaborative MySQL/Java coding project. You need to think up a project that everyone can contribute to. It's a team project with a team grade. You may want to start thinking about this early because any collaborative project takes more time than you think it should. You will need to use git as the VCS (version control) for the entire project (think branches and pull requests).
+This week's assignment is a collaborative MySQL/Java coding project. You need to think up a project that everyone can contribute to. It's a team project with a team grade. You may want to start thinking about this early because any collaborative project takes more time than you think it should. You will need to use git as the VCS (version control) for the entire project (think branches and pull requests), and push your code to Git Hub.
 
 Here are some possibilities:
 
