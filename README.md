@@ -37,9 +37,10 @@ Final thought: it's easy to come with a design that's so broad that you won't be
 
 ## About the teams
 
-Form teams of two or three people and post who's on what team. If someone asks to be on a team please play nice and let them in. Here's the class roster if you need it: Colin Cramer, Daisy Murillo, Jason Howard, Jess Raben, Kim Watson, Lee Blanchard, Zach Rind.
+Form teams of two or three people and post who's on what team. If someone asks to be on a team please play nice and let them in. Here's the class roster if you need it: Alex Nelson, Anees Farooq, Charlie Phillips, Christina Lytle, Luis 
+Gonzalez, Mike Franzen, Paul Willis.
 
-If you want, we can use Wednesday night's session to work on the assignments. Teams can work individually and I'll be available to ask questions. If you don't want to do that we can go over any topic learned so far so that you can ask questions.
+If you want, we can use Wednesday night's session to fine-tune the assignments. If you don't want to do that we can go over any topic learned so far so that you can ask questions.
 
 ## Working on the project
 
@@ -49,7 +50,7 @@ One person should create the team repo on GitHub. Set the repo visibility to pub
 1. Create the repo. Send the project URL to your team. 
 1. Open the project main page (Code) in a browser. Click on the big green "Code" button. Copy the clone URL.
 1. Open a command window and nagivate to your workspace directory (the one in which your projects live). Type **git clone ** and paste the clone URL into the command line. Example: *git clone https://github.com/DrOldGuy/mysql-week-6-instructions.git*. This will create the project directory as a subdirectory under the current directory.
-1. Open your IDE and enter the workspace. Right-click in a blank space in Project Explorer and click "New / Java Project". Enter the project name (the directory name of the project that was cloned). Click "Finish" then "Don't Create" if you are using Java 9+. Eclipse should create the project, and you should see the git branch in the project name. So, for project mysql-week-6-instructions, you should see in the Project Explorer "mysql-week-6-instructions [mysql-week-6-instructions master]", where "master" is the name of the master branch.
+1. Open your IDE and enter the workspace. Right-click in a blank space in Project Explorer and click "New / Java Project". Enter the project name (the directory name of the project that was cloned). Click "Finish" then "Don't Create" if you are using Java 9+. Eclipse should create the project, and you should see the git branch in the project name. So, for project mysql-week-6-instructions, you should see in the Project Explorer "mysql-week-6-instructions [mysql-week-6-instructions main]", where "main" is the name of the main branch.
 1. Make any changes you want.
 
 ## Push changes to GitHub
@@ -59,13 +60,13 @@ One person should create the team repo on GitHub. Set the repo visibility to pub
 1. Type **git add .**.
 1. Type **git status** again. You should see the changed files in green.
 1. Type **git commit -m "Some comment"**.
-1. Type **git push origin master:A_Branch_Name** where "A_Branch_Name" is the name of a branch to create in git. It's good to put your name and the short branch name like this: **git push origin master:rhewitt_added_service_layer**. There must be no spaces in the branch name or before and after the colon. This will create the branch locally and remotely but you will still have the master branch checked out locally. That's OK.
+1. Type **git push origin master:A_Branch_Name** where "A_Branch_Name" is the name of a branch to create in git. It's good to put your name and the short branch name like this: **git push origin master:rhewitt_added_service_layer**. There must be no spaces in the branch name or before and after the colon. This will create the branch locally and remotely but you will still have the main branch checked out locally. That's OK.
 
 ## Create a pull request
 
 Next create a pull request in GitHub. This will allow the changes to be *merged* into the master branch instead of overwriting the master branch. Muy importante.
 
 1. Navigate to the project URL with a brower. You should see a big green button "Compare & pull request". Click the button.
-1. Add reviewers if you want. Otherwise click the big green "Create pull request" button. You may need to be the repo creator for this.
+1. Add reviewers if you want (like your project partner(s)). Otherwise click the big green "Create pull request" button. You may need to be the repo creator for this.
 1. Go to the "Pull requests" tab. (You should be on it if you just clicked "Create pull request". Click the "Merge pull request" button. Click "Confirm merge". You may need to be the repo creator to do this.
 1. Go back to the Code tab. You should see your changes merged into the master branch.
